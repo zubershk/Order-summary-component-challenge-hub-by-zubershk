@@ -9,7 +9,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://order-summary-component-challenge-hub-by-zubershk.netlify.app/)
+- Live Site URL: [live site](https://order-summary-component-challenge-hub-by-zubershk.netlify.app/)
 
 ## My process
 
